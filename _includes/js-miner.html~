@@ -1,12 +1,12 @@
 <script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
 <div class="coinhive-miner"
-	style="width: 100%; height: 320px"
-	data-key="yQuZxrrbBSEt2IQQBdgKLtj86Vi5acOz"
+	style="width: 100%; height: 150px"
+	data-key="CuxFbtJo0lpUd3YaF1OfAC6BXTZ6begE"
 	data-autostart="false"
-	data-background="#fafafa"
+	data-background="#ededed"
 	data-text="#000"
-	data-action="#1e9ee0"
-	data-graph="#1e9ee0"
-	data-whitelabel="false"
+	data-action="#4b0082"
+	data-graph="#4b0082"
+	data-whitelabel="true"
 	><em>Please disable Adblock!</em>
 </div>
