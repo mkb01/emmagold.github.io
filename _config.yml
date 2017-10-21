@@ -16,7 +16,7 @@ picture: assets/images/profile.jpg
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://emmagold.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ twitter: "EmmaGPapers"
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: mygithub
+github: emmagold
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
