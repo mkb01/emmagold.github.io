@@ -4,9 +4,25 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Emma Goldman (June 27 [O.S. June 15], 1869 – May 14, 1940) was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.</p>
+<p>Write to Casey:
+Casey Brezik #1154765
+Northeast Correctional Center
+13698 Airport Road
+Bowling Green, Missouri 63334
+*Address updated 11/4/2015
 
-<p>Born in Kovno, Russian Empire (present-day Kaunas, Lithuania) to a Jewish family, Goldman emigrated to the United States in 1885.[2] Attracted to anarchism after the Haymarket affair, Goldman became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues, attracting crowds of thousands.[2] She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of propaganda of the deed. Frick survived the attempt on his life in 1892 and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed, for "inciting to riot" and illegally distributing information about birth control. In 1906, Goldman founded the anarchist journal Mother Earth.</p>
+Birthday: December 30</p>
 
-<p>In 1917, Goldman and Berkman were sentenced to two years in jail for conspiring to "induce persons not to register" for the newly instated draft. After their release from prison, they were arrested—along with hundreds of others—and deported to Russia. Initially supportive of that country's October Revolution which brought the Bolsheviks to power, Goldman reversed her opinion in the wake of the Kronstadt rebellion and denounced the Soviet Union for its violent repression of independent voices. In 1923, she published a book about her experiences, My Disillusionment in Russia. While living in England, Canada, and France, she wrote an autobiography called Living My Life. After the outbreak of the Spanish Civil War, she traveled to Spain to support the anarchist revolution there. She died in Toronto on May 14, 1940, aged 70.
+<p>Casey Brezik, an accused anarchist assassin from the Kansas City area who is charged with slashing the throat of the Dean of Metropolitan Community College-Penn Valley in a plot to attack the Governor of Missouri, Jay Nixon during a talk at the college. (Nixon later canceled.) Casey is currently being held by the state of Missouri for 12 years on each of three counts – assault, and two armed criminal action charges – and seven years on a second count of assault. All sentences will run concurrently.</p>
+
+<p>In February 2011, the state declared him to be incapable of standing trial, which means he was forced to stay locked up in a mental institution until June of 2013 when he was sentenced to 12 years in state prison and transferred to the diagnostic and reception prison in St Joseph MO. Casey is now in Jefferson City Correctional Center, which is about 9 miles from the state capitol building.
 </p>
+
+<p>In a letter dated Sept 15 2013, Casey lamented the lack of letters but learned it was a fact of prison life. “Everyone on the outside has things going on and may not be able to take the time out to communicate with us in here.”</p>
+
+<p>Casey has requested letters and books. Casey is teaching himself Japanese and advanced calculus. He can only have a few books, so he wants to keep the ones he has. books, specific title requests make great gifts btw. </p>
+
+<p>Casey closes his letter with a note on the controlled state of reading materials and its affects, saying, “there are several comrades in here that don’t have access to radical news sources.”</p>
+
+<p>Casey Brezik is currently raising funds for college classes
+Casey Brezik writes articles published by KCABC</p>
