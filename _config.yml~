@@ -1,6 +1,6 @@
 # main text of home
-name: Free Emma Goldman!
-bio: Wrongfully imprisoned for "inducing persons not to register for the draft"
+name: Support Casey Brezik
+bio: Help mine cryptocurrency for Brezik's release fund by clicking the play button below.
 
 # twitter summary info
 description: An independent prisoner support page
@@ -8,7 +8,7 @@ description: An independent prisoner support page
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
